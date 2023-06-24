@@ -2,6 +2,8 @@
 
 document.body.innerHTML=`
 <div class="container-fluid">
+<br />
+<br />
 <h1> Here You Can Know The Nationality Of  The Name🧔 </h1><br>
 <input type="text" id="searchtext" placeholder=" Enter the name" size="50">
 <input type="button" value="Search" id="btn" class="btn btn-primary">
